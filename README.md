@@ -1,3 +1,6 @@
+
+🍽️ React Native Recipe App 🍽️
+
 Highlights:
 
 🔐 Signup, Login, and 6-Digit Email Verification with Clerk
