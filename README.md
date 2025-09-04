@@ -21,3 +21,13 @@ NODE_ENV=development
 cd backend
 npm install
 npm run dev
+
+
+Mobile App (/mobile)
+EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
+
+
+📱 Run the Mobile App
+cd mobile
+npm install
+npx expo start
